@@ -2,7 +2,11 @@
    color: yellow;
 }
 .thick {
+<<<<<<< HEAD
    font-size:18px;
+=======
+   font-size:19px;
+>>>>>>> iss53
 }
 .green {
    color:green;
